@@ -29,3 +29,16 @@
     if __name__ == '__main__':
         main()
 
+Example help output:
+
+::
+
+    usage: gh-iter [-h] [--debug]
+
+     Example argparser based python script.
+
+        This docblock becomes the help page header description.
+
+    optional arguments:
+      -h, --help  show this help message and exit
+      --debug     Dump arguments
